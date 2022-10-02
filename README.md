@@ -1,5 +1,5 @@
 # All about Python.
-- [casting type data](asd)
-- input dari user
-- aritmatika
-- operasi komparasi
+- [casting type data]()
+- [input dari user]()
+- [aritmatika]()
+- [operasi komparasi]()
